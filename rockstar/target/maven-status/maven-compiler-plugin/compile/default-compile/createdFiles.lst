@@ -1,0 +1,4 @@
+co\com\autowash\center\repository\Repository.class
+co\com\autowash\center\servlet\servletVehiculo.class
+co\com\autowash\center\repository\repositoryVehiculo.class
+co\com\autowash\center\bean\vehiculo.class
